@@ -1,4 +1,4 @@
-# Intelligent-crop-recommendation-system
+
 
 #  Intelligent Crop Recommendation System
 
@@ -57,7 +57,7 @@ All models were trained using the same train-test split for fair comparison.
 
 ---
 
-## ⚙️ Hyperparameter Tuning
+##  Hyperparameter Tuning
 - Applied **GridSearchCV** to Random Forest  
 - Optimized parameters:
   - Number of trees
