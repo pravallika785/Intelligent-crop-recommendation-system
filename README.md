@@ -6,7 +6,6 @@
 This project implements an intelligent crop recommendation system using machine learning to suggest suitable crops based on soil nutrients and climatic conditions. The system analyzes parameters such as Nitrogen (N), Phosphorus (P), Potassium (K), temperature, humidity, pH, and rainfall to support data-driven agricultural decision-making.
 
 
-
 ## Objectives
 - Perform exploratory data analysis (EDA) on agricultural data  
 - Build and compare multiple machine learning models  
